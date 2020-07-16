@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="946d5547-be01-41bd-a2c2-cf86743bc2bd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="redis-check" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="redis-check" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="redis-check" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1dgqXVD7kin43QLXAhdb1D2ugBZ" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="introduce.parameter.lambda" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/build.gradle" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveMembersDialog.RECENTS_KEY">
+      <recent name="com.redis.check.Utils" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.MapFillTest.fillcheck">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="Application" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.redis.check.Application" />
+      <module name="redis-check.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapFillTest.fillcheck" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.redis.check.MapFillTest.fillcheck&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="RedisTestContainer" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.redis.check.RedisTestContainer&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="RedisTestContainer.testThings" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.redis.check.RedisTestContainer.testThings&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="redis-check [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="redis-check [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Application" />
+      <item itemvalue="Gradle.redis-check [build]" />
+      <item itemvalue="Gradle.redis-check [clean]" />
+      <item itemvalue="Gradle.RedisTestContainer" />
+      <item itemvalue="Gradle.RedisTestContainer.testThings" />
+      <item itemvalue="Gradle.MapFillTest.fillcheck" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.MapFillTest.fillcheck" />
+        <item itemvalue="Gradle.RedisTestContainer" />
+        <item itemvalue="Gradle.redis-check [build]" />
+        <item itemvalue="Gradle.redis-check [clean]" />
+        <item itemvalue="Gradle.RedisTestContainer.testThings" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="946d5547-be01-41bd-a2c2-cf86743bc2bd" name="Default Changelist" comment="" />
+      <created>1592857123151</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592857123151</updated>
+      <workItem from="1592857127406" duration="2802000" />
+      <workItem from="1592887982581" duration="12433000" />
+      <workItem from="1592978380454" duration="10090000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="322" y="126" key="#Project_Structure" timestamp="1592858814903">
+      <screen x="4" y="22" width="1436" height="878" />
+    </state>
+    <state x="322" y="126" key="#Project_Structure/4.22.1436.878@4.22.1436.878" timestamp="1592858814903" />
+    <state x="186" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593068316093">
+      <screen x="4" y="22" width="1436" height="878" />
+    </state>
+    <state x="186" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog/4.22.1436.878@4.22.1436.878" timestamp="1593068316093" />
+    <state x="459" y="252" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1593067603892">
+      <screen x="4" y="22" width="1436" height="878" />
+    </state>
+    <state x="459" y="252" key="#com.intellij.ide.util.TreeClassChooserDialog/4.22.1436.878@4.22.1436.878" timestamp="1593067603892" />
+    <state x="441" y="177" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1594013202962">
+      <screen x="4" y="22" width="1436" height="878" />
+    </state>
+    <state x="441" y="177" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/4.22.1436.878@4.22.1436.878" timestamp="1594013202962" />
+    <state x="258" y="295" width="916" height="493" key="#xdebugger.evaluate" timestamp="1592889705552">
+      <screen x="4" y="22" width="1436" height="878" />
+    </state>
+    <state x="258" y="295" width="916" height="493" key="#xdebugger.evaluate/4.22.1436.878@4.22.1436.878" timestamp="1592889705552" />
+    <state width="439" height="466" key="DebuggerActiveHint" timestamp="1594013997364">
+      <screen x="4" y="22" width="1436" height="878" />
+    </state>
+    <state width="439" height="466" key="DebuggerActiveHint/4.22.1436.878@4.22.1436.878" timestamp="1594013997364" />
+    <state width="1394" height="223" key="GridCell.Tab.0.bottom" timestamp="1594704835017">
+      <screen x="4" y="22" width="1436" height="878" />
+    </state>
+    <state width="1394" height="223" key="GridCell.Tab.0.bottom/4.22.1436.878@4.22.1436.878" timestamp="1594704835017" />
+    <state width="1394" height="223" key="GridCell.Tab.0.center" timestamp="1594704835016">
+      <screen x="4" y="22" width="1436" height="878" />
+    </state>
+    <state width="1394" height="223" key="GridCell.Tab.0.center/4.22.1436.878@4.22.1436.878" timestamp="1594704835016" />
+    <state width="1394" height="223" key="GridCell.Tab.0.left" timestamp="1594704835016">
+      <screen x="4" y="22" width="1436" height="878" />
+    </state>
+    <state width="1394" height="223" key="GridCell.Tab.0.left/4.22.1436.878@4.22.1436.878" timestamp="1594704835016" />
+    <state width="1394" height="223" key="GridCell.Tab.0.right" timestamp="1594704835017">
+      <screen x="4" y="22" width="1436" height="878" />
+    </state>
+    <state width="1394" height="223" key="GridCell.Tab.0.right/4.22.1436.878@4.22.1436.878" timestamp="1594704835017" />
+    <state width="1394" height="246" key="GridCell.Tab.1.bottom" timestamp="1594704834940">
+      <screen x="4" y="22" width="1436" height="878" />
+    </state>
+    <state width="1394" height="246" key="GridCell.Tab.1.bottom/4.22.1436.878@4.22.1436.878" timestamp="1594704834940" />
+    <state width="1394" height="246" key="GridCell.Tab.1.center" timestamp="1594704834939">
+      <screen x="4" y="22" width="1436" height="878" />
+    </state>
+    <state width="1394" height="246" key="GridCell.Tab.1.center/4.22.1436.878@4.22.1436.878" timestamp="1594704834939" />
+    <state width="1394" height="246" key="GridCell.Tab.1.left" timestamp="1594704834939">
+      <screen x="4" y="22" width="1436" height="878" />
+    </state>
+    <state width="1394" height="246" key="GridCell.Tab.1.left/4.22.1436.878@4.22.1436.878" timestamp="1594704834939" />
+    <state width="1394" height="246" key="GridCell.Tab.1.right" timestamp="1594704834939">
+      <screen x="4" y="22" width="1436" height="878" />
+    </state>
+    <state width="1394" height="246" key="GridCell.Tab.1.right/4.22.1436.878@4.22.1436.878" timestamp="1594704834939" />
+    <state width="815" height="440" key="XDebugger.FullValuePopup" timestamp="1592889371694">
+      <screen x="4" y="22" width="1436" height="878" />
+    </state>
+    <state width="815" height="440" key="XDebugger.FullValuePopup/4.22.1436.878@4.22.1436.878" timestamp="1592889371694" />
+    <state x="104" y="122" width="1236" height="678" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1594013723442">
+      <screen x="4" y="22" width="1436" height="878" />
+    </state>
+    <state x="104" y="122" width="1236" height="678" key="com.intellij.history.integration.ui.views.FileHistoryDialog/4.22.1436.878@4.22.1436.878" timestamp="1594013723442" />
+    <state x="460" y="221" key="extract.method.dialog" timestamp="1594016685481">
+      <screen x="4" y="22" width="1436" height="878" />
+    </state>
+    <state x="460" y="221" key="extract.method.dialog/4.22.1436.878@4.22.1436.878" timestamp="1594016685481" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/redis/check/RedisAccess.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/redis/check/MapFillTest.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
